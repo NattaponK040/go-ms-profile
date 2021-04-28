@@ -3,7 +3,7 @@ server:
   port: 8080
 
 mongoDb:
-  uri: 'mongodb+srv://aunjai-dev:D8A9Gn4udGH4iXXZ@cluster0.vw76d.mongodb.net'
+  uri: 
   database: aunjai-dev
   maxpool: 2
   minpool: 1
