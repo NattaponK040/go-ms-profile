@@ -4,6 +4,6 @@ server:
 
 mongoDb:
   uri: 
-  database: aunjai-dev
+  database: 
   maxpool: 2
   minpool: 1
